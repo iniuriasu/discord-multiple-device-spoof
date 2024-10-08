@@ -24,12 +24,3 @@ clients.forEach(client => {
     client.login('TOKEN').catch(console.error);
 });
 
-/*
-
-Release 1.1
-
-Deleted useless lines,
-thanks to my friend added "console" spoof.
-
-
-*/
